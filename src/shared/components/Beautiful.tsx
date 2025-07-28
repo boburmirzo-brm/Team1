@@ -1,7 +1,10 @@
 
 const Beautiful = () => {
   return (
-    <div>Beautiful</div>
+    <div>
+      <h2>Beautiful</h2>
+      <p>Далеко-далеко, за словесными горами в стране гласных и согласных живут рыбные тексты.</p>
+    </div>
   )
 }
 
