@@ -4,7 +4,7 @@ const Hero = () => {
   return (
     <>
     <h1>HelloWorld</h1>
-    <p>salom</p>
+    <p>salomedw</p>
     </>
   )
 }
