@@ -3,6 +3,7 @@ import Hero from "../shared/components/Hero"
 import Testimoniels from "../shared/components/Testimoniels"
 
 const App = () => {
+  let b = 15
   return (
     <div>
       <h2>App</h2>
