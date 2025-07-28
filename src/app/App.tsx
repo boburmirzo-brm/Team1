@@ -4,6 +4,7 @@ import Testimoniels from "../shared/components/Testimoniels"
 
 const App = () => {
   let a = 12
+  let b = 15
   return (
     <div>
       <h2>App</h2>
