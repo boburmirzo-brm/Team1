@@ -8,6 +8,7 @@ const Testimoniels = () => {
         <input type="text"placeholder="name" />
         <input type="text"placeholder="surname" />
         <button>Create</button>
+        <p>asdpmamnegfnefneqwofinewofniewfwe</p>
       </form>
     </div>
   )
