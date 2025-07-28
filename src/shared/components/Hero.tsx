@@ -1,7 +1,10 @@
 
 const Hero = () => {
   return (
-    <div>Hero</div>
+    <>
+    <h1>HelloWorld</h1>
+    <p>salomedw</p>
+    </>
   )
 }
 
